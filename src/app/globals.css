@@ -21,3 +21,6 @@
 .register-error{color:#a62540;display:block;width:100%}
 .register-aside{background:#f7fafe}.register-aside h2{font-size:14px;color:#2b659d}.register-aside p{line-height:1.7}.register-success{padding:15px;background:#ebf6ec;border:1px solid #c6ddcc;margin:20px 0}.register-success strong{color:#387848}
 @media(max-width:700px){.register-page{margin:10px}.register-layout{grid-template-columns:1fr}.register-head{display:block}.register-panel label{display:block}.register-panel label input,.register-panel label textarea,.register-panel label select{margin-top:8px}.register-panel .register-note,.register-actions{margin-left:0}}
+
+/* Convite de amizade e diretório de categorias (referências 028–032 e 047–052). */
+.friend-choice{display:flex!important;grid-template-columns:none!important;align-items:center!important;gap:7px!important;margin:7px 0!important;color:#466c96!important;font-weight:normal!important}.friend-choice input{width:auto!important;margin:0!important;min-height:0!important}.community-categories{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:3px;margin:10px 0}.community-categories button{padding:3px;text-align:left;border:0;background:#eff6fc;color:#32659d;font-size:11px}.community-categories button:hover{text-decoration:underline}.classic-actions{padding:5px 0 8px;color:#7290b0}
