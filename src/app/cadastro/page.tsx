@@ -1,0 +1,1 @@
+import Cadastro from '../../components/Cadastro';export default function Page(){return <Cadastro/>}
