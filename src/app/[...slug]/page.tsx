@@ -1,0 +1,1 @@
+import Classic from '../../components/Classic';export default function Page(){return <Classic/>}
