@@ -1,4 +1,4 @@
-# Iorgute 💜
+# Iogurte 💜
 
 MVP nostálgico inspirado na experiência das comunidades dos anos 2000.
 
