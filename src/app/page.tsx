@@ -1,0 +1,1 @@
+import Iorgute from '../components/Iorgute';export default function Home(){return <Iorgute/>}
