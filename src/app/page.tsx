@@ -1,1 +1,1 @@
-import Iorgute from '../components/Iorgute';export default function Home(){return <Iorgute/>}
+import Classic from '../components/Classic';export default function Home(){return <Classic/>}
